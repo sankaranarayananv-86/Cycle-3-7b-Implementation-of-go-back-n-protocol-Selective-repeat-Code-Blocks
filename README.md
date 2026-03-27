@@ -1,4 +1,4 @@
-# 7b) Implemenatation of go-back-n protocol - Selective repeat
+# Code-Blocks-Experiment-2
 
 📡 Implementation of Go-Back-N Protocol – Selective Repeat
 
@@ -62,7 +62,7 @@ void main() {
 }
 
 🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e0de2a5a-e545-4546-8e10-35b902ca1ff5" />
 
 ✅ Result
 
